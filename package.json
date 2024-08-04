@@ -1,7 +1,7 @@
 {
   "name": "embed-proxy",
   "version": "1.0.0",
-  "main": "proxy.js",
+  "main": "node proxy.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
